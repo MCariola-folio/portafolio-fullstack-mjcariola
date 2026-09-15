@@ -42,8 +42,6 @@ Tecnologías: Java 21, Spring Boot, Spring MVC, Spring Data JPA, Spring Security
 
 
 
-➡️ Ver caso de estudio completo
-
 2. BibliotecaDigitalUNTEC
 
 Aplicación web desarrollada en Java para administrar libros y préstamos. El proyecto aplica arquitectura MVC, acceso a datos mediante DAO, conexión con MySQL y desarrollo web dinámico con JSP y Servlets.
@@ -54,21 +52,105 @@ Tecnologías: Java, JSP, Servlets, JSTL, JDBC, MySQL, Apache Tomcat y Eclipse.
 
 
 
-➡️ Ver descripción del proyecto
-
 3. Wallet Web
 
 Aplicación web tipo billetera digital desarrollada durante el bootcamp. Permite simular acciones como iniciar sesión, consultar saldo, depositar dinero, enviar dinero y revisar los últimos movimientos.
 
 Tecnologías: HTML5, CSS3, JavaScript y Bootstrap.
 
-➡️ Ver descripción del proyecto
+Funcionalidades principales:
 
-Caso de estudio destacado
+Inicio de sesión.
 
-El proyecto seleccionado como caso de estudio es SpringEduManager, porque integra en una sola solución varias competencias desarrolladas durante el bootcamp: arquitectura MVC, persistencia de datos, seguridad, control de roles y servicios REST.
+Visualización de saldo.
 
-En el caso de estudio detallo el desafío, la solución implementada, las herramientas utilizadas, los aprendizajes y los resultados alcanzados.
+Depósito de dinero.
+
+Envío de dinero.
+
+Consulta de últimos movimientos.
+
+Validaciones de formularios.
+
+Diseño responsive.
+
+Caso de estudio — SpringEduManager
+
+Breve descripción
+
+SpringEduManager es una aplicación web desarrollada para gestionar estudiantes y cursos dentro de un entorno académico. El proyecto fue construido con Spring Boot y aplica una arquitectura organizada en capas para separar responsabilidades entre controladores, servicios, repositorios y modelos.
+
+Desafío principal
+
+El principal desafío fue integrar en una sola aplicación distintas tecnologías del ecosistema Spring y lograr que funcionaran de forma coordinada: persistencia con una base de datos MySQL, vistas web, autenticación, autorización por roles y servicios REST.
+
+Solución propuesta
+
+Se desarrolló una aplicación utilizando el patrón MVC y una arquitectura por capas. La persistencia se implementó mediante Spring Data JPA y MySQL. Para la seguridad se configuraron dos roles, ADMIN y USER, restringiendo las acciones de administración. Además, se creó una API REST para realizar operaciones CRUD sobre estudiantes y cursos.
+
+Herramientas técnicas utilizadas
+
+Java 21
+
+Spring Boot
+
+Spring MVC
+
+Spring Data JPA
+
+Spring Security
+
+Thymeleaf
+
+MySQL
+
+Maven
+
+Postman
+
+Eclipse
+
+Principales aprendizajes
+
+Comprender la estructura de una aplicación Spring Boot.
+
+Separar responsabilidades mediante Controller, Service y Repository.
+
+Persistir información utilizando JPA y MySQL.
+
+Implementar autenticación y autorización por roles.
+
+Crear y probar endpoints REST.
+
+Diagnosticar errores de configuración, conexión y permisos.
+
+Validar el proyecto mediante Maven y pruebas funcionales.
+
+Métricas y resultados
+
+2 entidades principales gestionadas: estudiantes y cursos.
+
+CRUD REST implementado con operaciones GET, POST, PUT y DELETE.
+
+2 roles de seguridad: ADMIN y USER.
+
+Persistencia validada con MySQL después de reiniciar la aplicación.
+
+Restricción de acceso comprobada mediante respuesta HTTP 403 para acciones no autorizadas.
+
+API validada con Postman.
+
+Compilación final validada con Maven: BUILD SUCCESS.
+
+Pruebas automáticas: 1 ejecutada, 0 fallas y 0 errores.
+
+Habilidades técnicas aplicadas
+
+Java, programación orientada a objetos, Spring Boot, arquitectura MVC, JPA, MySQL, seguridad web, APIs REST, Maven, testing y resolución de errores.
+
+¿Por qué elegí este proyecto?
+
+Elegí SpringEduManager porque representa de forma clara mi evolución durante el bootcamp. Fue el proyecto en el que tuve que integrar más componentes y resolver problemas reales de configuración, persistencia, seguridad y comunicación entre capas. El resultado demuestra no solo conocimientos técnicos, sino también capacidad para aprender, probar, corregir y llevar una aplicación hasta un estado funcional.
 
 Contacto
 
