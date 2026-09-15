@@ -1,26 +1,79 @@
-# BibliotecaDigitalUNTEC
+Portafolio Full Stack — María José Cariola
 
-Aplicación web para la gestión de una biblioteca digital desarrollada con Java, JSP y Servlets.
+Portafolio técnico desarrollado durante mi formación Full Stack Java. Reúne proyectos que muestran mi evolución desde desarrollo web con JavaScript hasta aplicaciones Java empresariales con persistencia, arquitectura MVC, seguridad y APIs REST.
 
-## Objetivo
+Sobre mí
 
-Construir una aplicación capaz de administrar información de libros y préstamos utilizando una arquitectura MVC y persistencia en una base de datos relacional.
+Soy periodista y profesional de comunicaciones y gestión de proyectos, actualmente fortaleciendo mi perfil tecnológico a través de formación Full Stack Java, UX/UI y Product Owner. Me interesa trabajar en equipos interdisciplinarios donde pueda conectar necesidades de negocio, experiencia de usuario y soluciones tecnológicas.
 
-## Funcionalidades trabajadas
+Tecnologías y herramientas
 
-- Gestión de libros.
-- Registro y consulta de préstamos.
-- Acceso a datos mediante clases DAO.
-- Persistencia en MySQL.
-- Vistas dinámicas mediante JSP.
-- Despliegue y pruebas con Apache Tomcat.
+Java
 
-## Tecnologías
+Spring Boot / Spring MVC / Spring Data JPA / Spring Security
 
-Java · JSP · Servlets · JSTL · JDBC · MySQL · Apache Tomcat · Eclipse
+JSP / Servlets / JSTL
 
-## Aprendizaje principal
+JavaScript
 
-Este proyecto me permitió comprender cómo una aplicación Java web conecta la interfaz, la lógica de negocio y la capa de datos, además de aplicar el patrón MVC en un proyecto funcional.
+HTML5 / CSS3 / Bootstrap
 
-![Prueba de préstamo](../../assets/biblioteca-prestamo.png)
+MySQL
+
+APIs REST
+
+Postman
+
+GitHub
+
+Eclipse / Visual Studio Code
+
+Metodologías ágiles y gestión de proyectos
+
+Proyectos destacados
+
+1. SpringEduManager
+
+Aplicación web para gestionar estudiantes y cursos, desarrollada con Spring Boot y arquitectura por capas. Incluye persistencia con MySQL, autenticación y autorización mediante Spring Security y una API REST para operaciones CRUD.
+
+Tecnologías: Java 21, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Thymeleaf, MySQL, Maven y Postman.
+
+
+
+
+
+➡️ Ver caso de estudio completo
+
+2. BibliotecaDigitalUNTEC
+
+Aplicación web desarrollada en Java para administrar libros y préstamos. El proyecto aplica arquitectura MVC, acceso a datos mediante DAO, conexión con MySQL y desarrollo web dinámico con JSP y Servlets.
+
+Tecnologías: Java, JSP, Servlets, JSTL, JDBC, MySQL, Apache Tomcat y Eclipse.
+
+
+
+
+
+➡️ Ver descripción del proyecto
+
+3. Wallet Web
+
+Aplicación web tipo billetera digital desarrollada durante el bootcamp. Permite simular acciones como iniciar sesión, consultar saldo, depositar dinero, enviar dinero y revisar los últimos movimientos.
+
+Tecnologías: HTML5, CSS3, JavaScript y Bootstrap.
+
+➡️ Ver descripción del proyecto
+
+Caso de estudio destacado
+
+El proyecto seleccionado como caso de estudio es SpringEduManager, porque integra en una sola solución varias competencias desarrolladas durante el bootcamp: arquitectura MVC, persistencia de datos, seguridad, control de roles y servicios REST.
+
+En el caso de estudio detallo el desafío, la solución implementada, las herramientas utilizadas, los aprendizajes y los resultados alcanzados.
+
+Contacto
+
+Nombre: María José Cariola
+
+LinkedIn: (https://www.linkedin.com/in/mjcariola)
+
+Correo: arc.cariola@gmail.com
