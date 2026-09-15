@@ -74,6 +74,6 @@ Contacto
 
 Nombre: María José Cariola
 
-LinkedIn: (https://www.linkedin.com/in/mjcariola)
+LinkedIn: https://www.linkedin.com/in/mjcariola
 
 Correo: arc.cariola@gmail.com
